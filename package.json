@@ -1,0 +1,22 @@
+{
+  "name": "node-red-opcua-otmr",
+  "version": "2.0.0",
+  "description": "OPCUA communication",
+  "main": "opcua-otmr.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "OPCUA"
+  ],
+  "author": "Omid Teimoori",
+  "license": "ISC",
+  "node-red": {
+    "nodes": {
+      "opcua-otmr": "opcua-otmr.js"
+    }
+  },
+  "dependencies": {
+    "node-opcua": "^2.126.0"
+  }
+}
