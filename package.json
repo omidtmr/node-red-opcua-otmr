@@ -1,6 +1,6 @@
 {
   "name": "node-red-opcua-otmr",
-  "version": "2.1.0",
+  "version": "2.0.3",
   "description": "OPCUA communication",
   "main": "opcua-otmr.js",
   "scripts": {
